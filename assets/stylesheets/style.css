@@ -111,7 +111,7 @@
     display: none;
   }
 
-  .global_navi__item {
+  .global_navi__list {
     display: none;
   }
 
@@ -226,13 +226,13 @@
     height: 50px;
   }
 
-  .global_navi__item {
+  .global_navi__list {
     display: inline-block;
     margin-left: 25px;
     color: #fff;
   }
 
-  .global_navi__item:first-child {
+  .global_navi__list:first-child {
     margin: 0;
   }
 
